@@ -1,0 +1,20 @@
+# macOS files
+.DS_Store
+
+# uv / Astral virtual environment
+.venv/
+.uv/
+uv.lock
+.python-version
+pyproject.toml
+.uv-cache/
+.uv-tool/
+
+# Python standard ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
